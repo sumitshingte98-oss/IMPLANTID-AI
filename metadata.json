@@ -1,0 +1,6 @@
+{
+  "name": "ImplantID AI",
+  "description": "Clinical dental implant radiographic identification, prosthetic screwdriver bit matching, torque limits, and Exocad/3Shape scan body library downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
